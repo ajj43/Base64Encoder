@@ -17,6 +17,7 @@ brew install curl
 ## Commandline
 
 - `./demo IMAGE_URL OUTPUT_FILE_PATH`
-ex: /demo https://example.com ~/Desktop/baseencoded.txt
+
+ex: `/demo https://example.com ~/Desktop/baseencoded.txt`
 
 
